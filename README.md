@@ -47,4 +47,8 @@ Converted date field to datetime
 
  7. Final Cleaned Dataset Created
 
-Saved as: cleaned_customer_personality.csv
+Saved as: cleaned_customer_personality.csv                                                                                                                                                                                    
+
+📌 Summary
+This project analyzes customer behavior using the Customer Personality Analysis dataset. The data was cleaned using Python, where missing values, duplicates, and inconsistent formats were fixed. A Power BI dashboard was then created using DAX measures to calculate key metrics like total spending, customer age, purchases, and campaign performance.
+The visual report highlights customer demographics, spending patterns, top product categories, and purchase channel performance. Insights from the dashboard help identify high-value customers, successful campaigns, and opportunities to improve marketing strategies.
